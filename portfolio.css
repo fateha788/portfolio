@@ -91,7 +91,6 @@ float: left;
     background-color: rgb(240, 255, 255);
     gap: 60px;
     justify-content: center;
-    align-items: center;
 }
 .secondary span{
     color:rgb(221, 0, 255) ;
